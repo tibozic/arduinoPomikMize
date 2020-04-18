@@ -1,2 +1,2 @@
-# arduinoPomikMize (Timotej Božič in Nik Jukič)
+# arduinoPomikMize (Nik Jukič)
 Arduino: Miza se pomika gor in dol preklo elektromagnetnih ventilov.

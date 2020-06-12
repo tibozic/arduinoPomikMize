@@ -22,4 +22,5 @@ Breadboard:
 
 Shema:
 
+![schema](https://user-images.githubusercontent.com/63909145/84494211-614b5980-aca9-11ea-944d-dadc51699d60.png)
 

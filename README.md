@@ -23,5 +23,5 @@ Breadboard:
 
 Shema:
 
-![schema](https://user-images.githubusercontent.com/63909145/84502203-33214600-acb8-11ea-964c-de39e480c8eb.png)
+![schema](https://user-images.githubusercontent.com/63909145/84502821-54cefd00-acb9-11ea-84c1-edc222e319f3.png)
 

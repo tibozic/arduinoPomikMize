@@ -7,7 +7,7 @@ Kosovnica:
 - DC motor
 - 5x tipka
 - L293D
-- 4x diode
+- 4x dioda
 - 5x upor (220Ω)
 - Arduino Uno
 

@@ -12,4 +12,11 @@ Kosovnica:
 - Arduino Uno
 
 
+Breadboard:
+
+
+
+
+Shema:
+
 

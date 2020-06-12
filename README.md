@@ -5,5 +5,5 @@ Krmilje naj krmili pomik mize, to je v smeri gor - dol, prek aktiviranja ustrezn
 
 Kosovnica:
 - DC motor
-- 2 tipki
+- 3 tipke
 - 

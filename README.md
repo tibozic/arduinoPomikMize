@@ -15,12 +15,13 @@ Kosovnica:
 Breadboard:
 
 
-![breadboard](https://user-images.githubusercontent.com/63909145/84492535-94401e00-aca6-11ea-9340-d65ae859486d.png)
+![breadboard](https://user-images.githubusercontent.com/63909145/84502208-34eb0980-acb8-11ea-9022-56d534a810d9.png)
+
 
 
 
 
 Shema:
 
-![schema](https://user-images.githubusercontent.com/63909145/84494211-614b5980-aca9-11ea-944d-dadc51699d60.png)
+![schema](https://user-images.githubusercontent.com/63909145/84502203-33214600-acb8-11ea-964c-de39e480c8eb.png)
 

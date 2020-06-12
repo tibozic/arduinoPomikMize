@@ -5,10 +5,10 @@ Krmilje naj krmili pomik mize, to je v smeri gor - dol, prek aktiviranja ustrezn
 
 Kosovnica:
 - DC motor
-- 3x tipke
+- 5x tipka
 - L293D
 - 4x diode
-- 3x upori (220Ω)
+- 5x upor (220Ω)
 - Arduino Uno
 
 

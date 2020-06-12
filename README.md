@@ -13,7 +13,7 @@ Kosovnica:
 
 
 Breadboard:
-
+![breadboard](https://user-images.githubusercontent.com/63909145/84492535-94401e00-aca6-11ea-9340-d65ae859486d.png)
 
 Shema:
 

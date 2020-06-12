@@ -16,7 +16,6 @@ Breadboard:
 
 
 
-
 Shema:
 
 

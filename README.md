@@ -15,7 +15,6 @@ Kosovnica:
 Breadboard:
 
 
-
 Shema:
 
 
